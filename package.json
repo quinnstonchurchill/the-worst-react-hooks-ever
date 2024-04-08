@@ -1,0 +1,15 @@
+{
+  "name": "the-worst-react-hooks-ever",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:quinnstonchurchill/the-worst-react-hooks-ever.git",
+  "author": "Quinn Pruitt <qpruitt93@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.2.75",
+    "typescript": "^5.4.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}

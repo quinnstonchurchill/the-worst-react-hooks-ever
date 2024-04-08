@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "./types",
+    "allowJs": true,
+    "declaration": true,
+    "target": "ESNext",
+    "pretty": true,
+    "strict": false,
+    "noUnusedLocals": true,
+    "moduleResolution": "Node"
+  },
+  "include": ["./src/**/*"]
+}
